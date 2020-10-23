@@ -1,5 +1,8 @@
 # Traffic Signal Classifier
- 
+
+### Model
+![Model](Model.png)
+
 ### Accuracy Graph
 ![Accuracy Graph](Accuracy.png)
 
